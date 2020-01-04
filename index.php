@@ -31,17 +31,17 @@
           </a>
         </li>
         <li class="nav-item">
-          <a href="about.html" class="nav-link">
+          <a href="about.php" class="nav-link">
             About Me
           </a>
         </li>
         <li class="nav-item">
-          <a href="work.html" class="nav-link">
+          <a href="work.php" class="nav-link">
             My Work
           </a>
         </li>
         <li class="nav-item">
-          <a href="contact.html" class="nav-link">
+          <a href="contact.php" class="nav-link">
             Contact Me
           </a>
         </li>
